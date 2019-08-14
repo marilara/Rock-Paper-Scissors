@@ -1,0 +1,11 @@
+C:\Users\maril\source\repos\Lab13Breakout-RPS\Lab13Breakout-RPS\bin\Debug\netcoreapp2.1\Lab13Breakout-RPS.deps.json
+C:\Users\maril\source\repos\Lab13Breakout-RPS\Lab13Breakout-RPS\bin\Debug\netcoreapp2.1\Lab13Breakout-RPS.runtimeconfig.json
+C:\Users\maril\source\repos\Lab13Breakout-RPS\Lab13Breakout-RPS\bin\Debug\netcoreapp2.1\Lab13Breakout-RPS.runtimeconfig.dev.json
+C:\Users\maril\source\repos\Lab13Breakout-RPS\Lab13Breakout-RPS\bin\Debug\netcoreapp2.1\Lab13Breakout-RPS.dll
+C:\Users\maril\source\repos\Lab13Breakout-RPS\Lab13Breakout-RPS\bin\Debug\netcoreapp2.1\Lab13Breakout-RPS.pdb
+C:\Users\maril\source\repos\Lab13Breakout-RPS\Lab13Breakout-RPS\obj\Debug\netcoreapp2.1\Lab13Breakout-RPS.csprojAssemblyReference.cache
+C:\Users\maril\source\repos\Lab13Breakout-RPS\Lab13Breakout-RPS\obj\Debug\netcoreapp2.1\Lab13Breakout-RPS.csproj.CoreCompileInputs.cache
+C:\Users\maril\source\repos\Lab13Breakout-RPS\Lab13Breakout-RPS\obj\Debug\netcoreapp2.1\Lab13Breakout-RPS.AssemblyInfoInputs.cache
+C:\Users\maril\source\repos\Lab13Breakout-RPS\Lab13Breakout-RPS\obj\Debug\netcoreapp2.1\Lab13Breakout-RPS.AssemblyInfo.cs
+C:\Users\maril\source\repos\Lab13Breakout-RPS\Lab13Breakout-RPS\obj\Debug\netcoreapp2.1\Lab13Breakout-RPS.dll
+C:\Users\maril\source\repos\Lab13Breakout-RPS\Lab13Breakout-RPS\obj\Debug\netcoreapp2.1\Lab13Breakout-RPS.pdb
