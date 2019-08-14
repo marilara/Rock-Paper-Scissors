@@ -44,25 +44,6 @@ namespace Lab13Breakout_RPS
                 Console.WriteLine($"{Player2.Name}: {Player2Pick}");
                 Console.WriteLine();
                 Console.WriteLine(Player1Stats(Player1Pick, Player2Pick));
-
-                Console.WriteLine();
-                Console.WriteLine("Would you like to play again? (Y/N) ");
-                string repeat = Console.ReadLine().ToLower();
-                if (repeat == "n")
-                {
-                    break;
-                }
-                else if (repeat == "y")
-                {
-                    continue;
-                }
-                else
-                {
-                    Console.WriteLine();
-                    Console.WriteLine("I'm sorry I didn't follow that response. Let's try again.");
-                    Console.WriteLine();
-                    continue;
-                }
             }
         }
         public string Player1Stats(string Player1Pick, string Player2Pick)
